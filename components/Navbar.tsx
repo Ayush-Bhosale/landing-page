@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="flexBetween max-container padding-container relative z-30 py-5">
      <Link href='/' className='flex items-center gap-4'>
-      <Image src='/FG.PNG' alt='logo' width={28} height={28} />
+      <Image src='/FG.png' alt='logo' width={28} height={28} />
       <p className='text-bold'>
       <span className='text-violet-500 font-bold text-[24px]' >Flexa</span>
       <span className='text-white font-bold text-[24px]'>gram</span>
